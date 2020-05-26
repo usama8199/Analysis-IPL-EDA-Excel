@@ -97,9 +97,6 @@ for Cricket India (BCCI) in 2008.
         dismissal_kind How the player was dismissed (If out)
         
         fielder Fielder involved in the dismissal (If any)
-# Data set Link
-https://www.kaggle.com/nowke9/ipldata#deliveries.csv
-        source Kaggle
 
 # Excel
 Excel contains the dashboard of the analysis of matches and players from 2008-2019
