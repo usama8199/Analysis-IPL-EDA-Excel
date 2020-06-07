@@ -20,6 +20,10 @@ for Cricket India (BCCI) in 2008.
 # Excel
 Excel contains the dashboard of the analysis of matches and players from 2008-2019
 
+![](excel.jpg)
+
 # PowerPoint Presentation
 PPT contain important visualization and analysis of these data sets 
+
+![](ppt.jpg)
 
