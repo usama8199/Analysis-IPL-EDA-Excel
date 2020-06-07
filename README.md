@@ -15,7 +15,6 @@ for Cricket India (BCCI) in 2008.
 1. Matches (1).csv contain the data sets of every matches ever played from 2008-2019
    
 2. Deliveries.csv conatain the data sets of every deliveries played and bowled from 2008-2019
-   it contains :
 
 # Excel
 Excel contains the dashboard of the analysis of matches and players from 2008-2019
